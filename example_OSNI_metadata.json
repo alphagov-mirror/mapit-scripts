@@ -2,31 +2,31 @@
   "OSNI_Open_Data_Largescale_Boundaries__District_Electoral_Areas_2012":{
     "url":"https://www.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-district-electoral-areas-20121/resource/605fbab4-b4cd-4d3a-a582-c20b547889be",
     "released_on":"2017-11-15T20:18:30.000Z",
-    "srid":"29902",
+    "srid":"4326",
     "type":"lge"
   },
   "OSNI_Open_Data_Largescale_Boundaries__Local_Government_Districts_2012":{
     "url":"https://www.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-local-government-districts-20121/resource/1625654d-e7e7-4098-9bd0-0c2a29a19a89",
     "released_on":"2018-01-05T00:33:46.000Z",
-    "srid":"29902",
+    "srid":"4326",
     "type":"lgd"
   },
   "OSNI_Open_Data_Largescale_Boundaries__NI_Outline":{
     "url":"https://www.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-ni-outline1/resource/7e384dd8-3a59-4ae9-be59-386d80fa4db3",
     "released_on":"2016-12-03T11:46:34.000Z",
-    "srid":"29902",
+    "srid":"4326",
     "type":"eur"
   },
   "OSNI_Open_Data_Largescale_Boundaries__Parliamentary_Constituencies_2008":{
     "url":"https://www.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-parliamentary-constituencies-20081/resource/1ee493f3-884f-4833-b284-3dfad733cee1",
     "released_on":"2017-08-15T11:20:20.000Z",
-    "srid":"29902",
+    "srid":"4326",
     "type":"wmc"
   },
   "OSNI_Open_Data_Largescale_Boundaries_Wards_2012":{
     "url":"https://www.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-wards-20121/resource/85739f31-59f7-457e-ace8-a52adc47e73a",
     "released_on":"2016-08-12T07:42:40.000Z",
-    "srid":"29902",
+    "srid":"4326",
     "type":"lgw"
   }
 }

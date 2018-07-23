@@ -12,7 +12,7 @@ export osni_prefix="OSNI_Open_Data_Largescale_Boundaries_"
 osni_present=0
 
 echo "Downloading OSNI from S3"
-tar_name="OSNI-20180709.tar.gz"
+tar_name="OSNI-20180723.tar.gz"
 if [ ! -e $tar_name ]; then
   curl -O "https://s3-eu-west-1.amazonaws.com/govuk-custom-formats-mapit-storage-production/source-data/2018-07/$tar_name"
 fi
